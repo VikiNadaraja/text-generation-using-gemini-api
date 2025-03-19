@@ -1,7 +1,7 @@
 # text-generation-using-gemini-api
-Text generation using Gemini API (REST)<br>
+Text generation using Gemini API (REST)<br><br>
 Source link : https://ai.google.dev/gemini-api/docs/text-generation?lang=rest
-<br>
+<br><br>
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY" \
     -H 'Content-Type: application/json' \
     -X POST \
